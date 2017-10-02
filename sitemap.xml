@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://devon.fyi/barcelona/</loc>
+    <lastmod>2017-10-01T20:52:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devon.fyi/about/</loc>
+    <lastmod>2017-10-01T20:50:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devon.fyi/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devon.fyi/categories/travel/</loc>
+    <lastmod>2017-10-01T20:52:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://devon.fyi/</loc>
+    <lastmod>2017-10-01T20:52:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
