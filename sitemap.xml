@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://devon.fyi/barcelona/</loc>
+    <loc>https://devon.fyi/barcelona/</loc>
     <lastmod>2017-10-01T20:52:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://devon.fyi/about/</loc>
+    <loc>https://devon.fyi/about/</loc>
     <lastmod>2017-10-01T20:50:42-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://devon.fyi/categories/</loc>
+    <loc>https://devon.fyi/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://devon.fyi/categories/travel/</loc>
+    <loc>https://devon.fyi/categories/travel/</loc>
     <lastmod>2017-10-01T20:52:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://devon.fyi/</loc>
+    <loc>https://devon.fyi/</loc>
     <lastmod>2017-10-01T20:52:45-04:00</lastmod>
     <priority>0</priority>
   </url>
